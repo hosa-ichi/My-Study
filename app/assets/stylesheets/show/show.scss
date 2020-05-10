@@ -1,0 +1,49 @@
+.postTitle{
+  padding-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.postDate{
+  font-size: 15px;
+  color: #999;
+  text-align: center;
+}
+.postAuthor{
+  font-size: 15px;
+  color: #999;
+  text-align: center;
+}
+.postManage{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  &__edit{
+    display: block;
+    border-radius: 5px;
+    color: black;
+    background: rgba(187, 202, 182, 0.2);
+    padding: 3px;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  &__edit:hover {
+    background: rgba(187, 202, 182, 0.5);
+  }
+  &__delete{
+    display: block;
+    border-radius: 5px;
+    color: black;
+    background: rgba(187, 202, 182, 0.2);
+    padding: 3px;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  &__delete:hover {
+    background: rgba(187, 202, 182, 0.5);
+  }
+}
+.postText{
+  font-family: none;
+  margin: 20px 30px;
+}

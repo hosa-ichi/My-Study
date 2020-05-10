@@ -1,0 +1,7 @@
+<div class="postTitle">
+  <%= @user.nickname %>さんの投稿一覧
+</div>
+<% @posts.each do |post| %>
+  <%# _post.html.erbの呼び出し %>
+  <%= render partial: "posts/post", locals: { post: post } %>
+<% end %>

@@ -1,0 +1,51 @@
+.content{
+  position: relative;
+  padding: 15px;
+  border-bottom: 1px solid #5a464648;
+  display: flex;
+  &__left{
+    padding-right: 20px;
+    &--image{
+      height: 55px;
+      width: 55px;
+      border: solid 1px;
+    }
+  }
+  &__right{
+    &__top{
+      font-size: 25px;
+      font-weight: bold;
+      &--title{
+        text-decoration: none;
+        color: #000000;
+      }
+      &--title:hover {
+        text-shadow: 1px 2px 1px silver;
+      }
+    }
+    &__bottom{
+      padding-top: 5px;
+      font-size: 15px;
+      color: #999;
+      display: flex;
+      &--userName{
+        &--btn{
+          text-decoration: none;
+          color: #999;
+        }
+        &--btn:hover {
+          text-shadow: 1px 1px 1px silver;
+        }
+      }
+      &--date{
+        margin-left: 20px;
+      }
+    }
+  }
+  &__title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 30px;
+    text-align: center;
+  }
+}

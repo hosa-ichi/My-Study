@@ -1,8 +1,8 @@
 # My-Study
 
-![My-Study](app/assets/images/My-Study.jpg)
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![スクリーンショット 2020-05-10 21 44 53](https://user-images.githubusercontent.com/61225885/81499738-afff7f80-9308-11ea-8aea-fe4904cfa14c.png)
+
+
 
 Things you may want to cover:
 

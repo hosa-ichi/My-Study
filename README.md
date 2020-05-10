@@ -1,6 +1,6 @@
 # My-Study
 
-![紹介動画 2020-05-10 21.09.53.mov](app/assets/images/紹介動画 2020-05-10 21.09.53.mov)
+![My-Study.png](app/assets/images/My-Study.png)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

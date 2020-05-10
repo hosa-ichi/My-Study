@@ -1,6 +1,6 @@
 # My-Study
 
-![My-Study.png](app/assets/images/My-Study.png)
+![My-Study](app/assets/images/My-Study.jpg)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

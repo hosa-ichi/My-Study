@@ -22,4 +22,8 @@
 
 ![gamen_1](https://user-images.githubusercontent.com/61225885/81524412-1083d080-938c-11ea-9ae0-90a8bd908e1b.gif)
 
-<h4 align="center">aboutボタン(簡単なアプリ紹介の表示></h4>
+<h4 align="center">aboutボタン(簡単なアプリ紹介の表示)></h4>
+
+![gamen_2](https://user-images.githubusercontent.com/61225885/81525174-c819e200-938e-11ea-8668-110088808026.gif)
+
+<h4>ブログの投稿、編集、削除

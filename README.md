@@ -34,6 +34,6 @@
 
 ![gamen_4](https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif)<br><br>
 
-## Auther
+## 😃Auther
 
 - [Github](https://github.com/hosa-ichi)

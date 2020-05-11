@@ -13,12 +13,10 @@
  *= require_tree .
  *= require_self
  */
-
 @font-face {
   font-family: 'Hui';
-  src: url('HuiFont29.ttf') format('truetype');
+  src: url("HuiFont29.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
-// @import 'font-awesome-sprockets';
-// @import 'font-awesome';
+/*# sourceMappingURL=application.css.map */

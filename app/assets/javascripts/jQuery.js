@@ -1,5 +1,5 @@
 $(function() {
-  let $btn = $(".about_btn")
+  var $btn = $(".about_btn")
   $btn.fadeIn(3000);
   $btn.click(function() {
     $('.modal-wrapper').fadeIn();

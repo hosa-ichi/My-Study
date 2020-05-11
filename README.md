@@ -10,7 +10,10 @@
 
 ## 💡About
 シンプルなブログサービスです<br>
-毎日の学習記録を残すために作成いたしました
+毎日の学習記録を残すために作成いたしました<br><br>
+
+## 🌐URL
+<h4 align="center">https://my-study0725.herokuapp.com/</h4><br><br>
 
 ## 🏃‍♂️Login
 メールアドレス: test@test<br>

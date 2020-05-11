@@ -1,0 +1,29 @@
+.contents {
+  padding-left: 10px;
+}
+
+.contents .new_user #error_explanation {
+  padding-bottom: 1em;
+}
+
+.contents .new_user .field {
+  padding-bottom: 1em;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.contents .new_user .field__form {
+  font-family: none;
+  padding-top: 1em;
+}
+
+@media screen and (max-width: 480px) {
+  .contents {
+    text-align: center;
+    padding-left: 0px;
+  }
+  .contents .new_user .actions {
+    border: 1px solid;
+    padding-top: 0em;
+  }
+}
+/*# sourceMappingURL=device.css.map */

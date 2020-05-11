@@ -26,4 +26,6 @@
 
 ![gamen_2](https://user-images.githubusercontent.com/61225885/81525174-c819e200-938e-11ea-8668-110088808026.gif)
 
-<h4>ブログの投稿、編集、削除
+<h4>ブログの投稿、編集、削除</h4>
+
+![gamen_3](https://user-images.githubusercontent.com/61225885/81527736-023ab200-9396-11ea-99f2-43fa1404d1b1.gif)

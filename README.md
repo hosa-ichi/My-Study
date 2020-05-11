@@ -31,3 +31,5 @@
 ![gamen_3](https://user-images.githubusercontent.com/61225885/81527736-023ab200-9396-11ea-99f2-43fa1404d1b1.gif)
 
 <h4 align="center">自身の投稿一覧・他のユーザーの投稿一覧</h4>
+
+![gamen_4](https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif)

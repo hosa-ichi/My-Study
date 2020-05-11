@@ -18,4 +18,6 @@
 にてテストユーザーとしてログインできます<br>
 
 ## Features
-<h4 align="center">ログイン機能(失敗時のエラーメッセージ機能></h4>
+<h4 align="center">ユーザー登録(失敗時のエラーメッセージ機能あり></h4>
+
+![gamen_1](https://user-images.githubusercontent.com/61225885/81524412-1083d080-938c-11ea-9ae0-90a8bd908e1b.gif)

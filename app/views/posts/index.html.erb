@@ -1,16 +1,13 @@
+<div>
 <% @posts.each do |post| %>
   <%# _post.html.erbの呼び出し %>
   <%= render partial: "post", locals: { post: post } %>
 <% end %>
+</div>
 <div class="about_btn">
   <div class="about_btn__txt">
     about
   </div>
-  <%# <script>
-    $(function() {
-      $('.about_btn').fadeOut(5000);
-    });
-  </script> %>
 </div>
 <div class="modal-wrapper">
   <div class="modal">

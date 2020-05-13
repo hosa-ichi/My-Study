@@ -73,13 +73,13 @@ body{
       }
     }
   }
-  .about_btn{
+  body .about_btn{
       height: 100px;
       width: 100px;
     }
-  .modal-wrapper{
+  body .modal-wrapper{
     .modal {
-      width: 300px;
+      width: 80%;
     }
   }
 }

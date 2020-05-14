@@ -6,7 +6,7 @@
     text-decoration: none;
     color: black;
   }
-  .last, .first {
+  .last, .first, .prev, .next {
     a {
       font-size: 18px;
       display: inline-block;
@@ -19,5 +19,13 @@
   }
   .page {
     color: #55c500;
+    a {
+      display: inline-block;
+      transition: .8s ;
+      transform: rotateX( 0deg ) ;
+    }
+    a:hover {
+      transform: rotateX( 360deg ) ;
+    }
   }
 }

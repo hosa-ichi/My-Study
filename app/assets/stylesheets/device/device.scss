@@ -15,13 +15,12 @@
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 499px) {
   .contents {
     text-align: center;
     padding-left: 0px;
     .new_user {
       .actions {
-        border: 1px solid;
         padding-top: 0em;
       }
     }

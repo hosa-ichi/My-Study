@@ -63,14 +63,17 @@ body{
     }
   }
   body .contents {
+    width: 90%;
     .content {
+      display: flex;
+      justify-content: center;
       &__left {
-        padding-right: 0;
-        &--image {
-          height: 20px;
-          width: 20px;
-          border: none;
-        }
+        display: none;
+        // &--image {
+        //   height: 20px;
+        //   width: 20px;
+        //   border: none;
+        // }
       }
       &__right {
         &__top {

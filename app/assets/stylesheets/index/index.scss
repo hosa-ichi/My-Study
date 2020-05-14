@@ -17,6 +17,7 @@ body{
     width: 70%;
     overflow: scroll;
     @import "content";
+    @import "../device/pagination";
   }
   @import "about";
   @import "modal";

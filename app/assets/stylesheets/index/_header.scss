@@ -29,7 +29,6 @@
       color: #fff;
       margin-left:15px;
       &--name {
-        // display: block;
         font-size: 20px;
         text-decoration: none;
         color: #fff;
@@ -43,14 +42,6 @@
           color: rgb(53, 182, 64);
           text-shadow: 1px 2px 1px rgb(180, 231, 184);
         }
-      }
-      &--gest {
-        display: block;
-        font-size: 20px;
-        text-decoration: none;
-        color: #fff;
-        margin-top: 25px;
-        margin-bottom: 10px;
       }
     }
     &--btn:hover {

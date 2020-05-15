@@ -40,6 +40,10 @@
 
 ![gamen_4](https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif)<br><br>
 
+## 📲responsive
+
+
+
 ## 🤔今後実装したい機能
 ・インクリメンタルサーチを利用した記事の検索機能<br>
 ・現在のaboutボタンを消去し、ハンバーガーメニューの作成

@@ -27,7 +27,7 @@
 <h4 align="center">ユーザー登録(失敗時のエラーメッセージ機能あり></h4>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61225885/81524412-1083d080-938c-11ea-9ae0-90a8bd908e1b.gif" width="70%">
+<img src="https://user-images.githubusercontent.com/61225885/81524412-1083d080-938c-11ea-9ae0-90a8bd908e1b.gif" width="0%">
 </div>
 
 <h4 align="center">aboutボタン(簡単なアプリ紹介の表示)></h4>

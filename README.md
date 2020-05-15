@@ -38,11 +38,10 @@
 
 <h4 align="center">自身の投稿一覧・他のユーザーの投稿一覧</h4>
 
-![gamen_4](https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif)<br><br>
+![gamen_4](https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif)<br>
 
 ## 📲responsive
-
-
+![gamen_5](https://user-images.githubusercontent.com/61225885/82015230-3c1ef780-96b9-11ea-8c1b-330f54d62b75.gif)
 
 ## 🤔今後実装したい機能
 ・インクリメンタルサーチを利用した記事の検索機能<br>

@@ -32,7 +32,7 @@
 
 <h4 align="center">〜aboutボタン(簡単なアプリ紹介の表示)〜</h4>
 <br>
-<div align="center">〜
+<div align="center">
 <img src="https://user-images.githubusercontent.com/61225885/81525174-c819e200-938e-11ea-8668-110088808026.gif" width="80%">
 </div><br>
 

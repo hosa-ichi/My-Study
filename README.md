@@ -50,7 +50,7 @@
 
 ## 📲responsive
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61225885/82015230-3c1ef780-96b9-11ea-8c1b-330f54d62b75.gif" width="80%">
+<img src="https://user-images.githubusercontent.com/61225885/82015230-3c1ef780-96b9-11ea-8c1b-330f54d62b75.gif">
 </div>
 
 ## 🤔今後実装したい機能

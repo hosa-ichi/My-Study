@@ -24,25 +24,25 @@
 にてテストユーザーとしてログインできます<br>
 
 ## 👀Features
-<h4 align="center">ユーザー登録(失敗時のエラーメッセージ機能あり></h4><br>
+<h4 align="center">ユーザー登録(失敗時のエラーメッセージ機能あり></h4>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61225885/81524412-1083d080-938c-11ea-9ae0-90a8bd908e1b.gif" width="80%">
 </div><br>
 
-<h4 align="center">aboutボタン(簡単なアプリ紹介の表示)></h4><br>
+<h4 align="center">aboutボタン(簡単なアプリ紹介の表示)></h4>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61225885/81525174-c819e200-938e-11ea-8668-110088808026.gif" width="80%">
 </div><br>
 
-<h4 align="center">ブログの投稿、編集、削除</h4><br>
+<h4 align="center">ブログの投稿、編集、削除</h4>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61225885/81527736-023ab200-9396-11ea-99f2-43fa1404d1b1.gif" width="80%">
 </div><br>
 
-<h4 align="center">自身の投稿一覧・他のユーザーの投稿一覧</h4><br>
+<h4 align="center">自身の投稿一覧・他のユーザーの投稿一覧</h4>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif" width="80%">

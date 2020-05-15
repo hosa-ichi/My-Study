@@ -32,15 +32,21 @@
 
 <h4 align="center">aboutボタン(簡単なアプリ紹介の表示)></h4>
 
-![gamen_2](https://user-images.githubusercontent.com/61225885/81525174-c819e200-938e-11ea-8668-110088808026.gif)<br><br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61225885/81525174-c819e200-938e-11ea-8668-110088808026.gif" width="80%">
+</div>
 
 <h4 align="center">ブログの投稿、編集、削除</h4>
 
-![gamen_3](https://user-images.githubusercontent.com/61225885/81527736-023ab200-9396-11ea-99f2-43fa1404d1b1.gif)<br><br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61225885/81527736-023ab200-9396-11ea-99f2-43fa1404d1b1.gif" width="80%">
+</div>
 
 <h4 align="center">自身の投稿一覧・他のユーザーの投稿一覧</h4>
 
-![gamen_4](https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif)<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61225885/81528250-3c588380-9397-11ea-90f0-6401bf83aab0.gif" width="80%">
+</div>
 
 ## 📲responsive
 ![gamen_5](https://user-images.githubusercontent.com/61225885/82015230-3c1ef780-96b9-11ea-8c1b-330f54d62b75.gif)

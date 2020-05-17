@@ -6,5 +6,6 @@ $(function() {
   });
   $('.fa-times').click(function() {
     $('.modal-wrapper').fadeOut();
+    $btn.fadeOut();
   });
 });

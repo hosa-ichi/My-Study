@@ -22,7 +22,6 @@ body{
   @import "about";
   @import "modal";
 }
-
 @media screen and (max-width: 772px) {
   body .header {
     padding: 0 15px;
@@ -48,7 +47,6 @@ body{
     }
   }
 }
-
 @media screen and (max-width: 499px) {
   body .header {
     padding: 0 10px;
@@ -72,11 +70,6 @@ body{
       justify-content: center;
       &__left {
         display: none;
-        // &--image {
-        //   height: 20px;
-        //   width: 20px;
-        //   border: none;
-        // }
       }
       &__right {
         &__top {

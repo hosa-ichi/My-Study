@@ -1,3 +1,16 @@
+@mixin header-hover {
+  color: rgb(53, 182, 64);
+  text-shadow: 1px 2px 1px rgb(180, 231, 184);
+}
+@mixin text-style {
+  text-decoration: none;
+  color: #fff;
+}
+@mixin btn-style {
+  font-size: 20px;
+  margin-left:15px;
+}
+
 .header{
   font-family: 'Hui';
   height: 100px;
@@ -14,40 +27,31 @@
     line-height: 90px;
     font-weight: bold;
     &--text{
-      text-decoration: none;
-      color: #fff;
+      @include text-style();
     }
     &--text:hover {
-      color: rgb(53, 182, 64);
-      text-shadow: 1px 2px 1px rgb(180, 231, 184);
+      @include header-hover();
     }
   }
   &__right{
     &--btn{
-      font-size: 20px;
-      text-decoration: none;
-      color: #fff;
-      margin-left:15px;
+      @include text-style();
+      @include btn-style();
       &--name {
-        font-size: 20px;
-        text-decoration: none;
-        color: #fff;
+        @include text-style();
+        @include btn-style();
         margin-top: 25px;
         margin-bottom: 10px;
-        margin-left: 15px;
         &--link {
-          text-decoration: none;
-          color: #fff;
+          @include text-style();
         }
         &--link:hover {
-          color: rgb(53, 182, 64);
-          text-shadow: 1px 2px 1px rgb(180, 231, 184);
+          @include header-hover();
         }
       }
     }
     &--btn:hover {
-      color: rgb(53, 182, 64);
-      text-shadow: 1px 2px 1px rgb(180, 231, 184);
+      @include header-hover();
     }
   }
 }

@@ -1,3 +1,7 @@
+@mixin content-hover {
+  text-shadow: 1px 2px 1px silver;
+}
+
 .content{
   position: relative;
   padding: 15px;
@@ -20,7 +24,7 @@
         color: #000000;
       }
       &--title:hover {
-        text-shadow: 1px 2px 1px silver;
+        @include content-hover();
       }
     }
     &__bottom{
@@ -34,7 +38,7 @@
           color: #999;
         }
         &--btn:hover {
-          text-shadow: 1px 1px 1px silver;
+          @include content-hover();
         }
       }
       &--date{

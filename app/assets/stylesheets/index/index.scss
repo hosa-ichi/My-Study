@@ -1,27 +1,26 @@
 body{
-  height: 100vh;
-  width: 100%;
-  font-family: 'Hui';
   background: image-url('bg-img.jpg');
-  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-
+  background-size: cover;
+  font-family: 'Hui';
+  height: 100vh;
   @import "header";
-  // contentsクラスはlayout.html.erbに記載
-  .contents{
-    position: relative;
-    margin: 30px auto 0;
-    background-color: #f6f6f6;
-    opacity: 0.9;
-    height: 520px;
-    width: 70%;
-    overflow: scroll;
-    @import "content";
-    @import "../device/pagination";
-  }
   @import "about";
   @import "modal";
+  width: 100%;
+  // contentsクラスはlayout.html.erbに記載
+  .contents{
+    background-color: #f6f6f6;
+    height: 520px;
+    @import "content";
+    @import "../device/pagination";
+    margin: 30px auto 0;
+    opacity: 0.9;
+    overflow: scroll;
+    position: relative;
+    width: 70%;
+  }
 }
 @media screen and (max-width: 772px) {
   body .header {

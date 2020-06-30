@@ -1,20 +1,20 @@
 .about_btn{
-  cursor: pointer;
-  position: fixed;
-  z-index: 1;
-  bottom: 20px;
-  right: 20px;
-  height: 130px;
-  width: 130px;
-  border-radius: 50%;
   background: rgba(117, 247, 117, 0.8);
+  border-radius: 50%;
+  bottom: 20px;
+  cursor: pointer;
+  height: 130px;
+  position: fixed;
+  right: 20px;
+  width: 130px;
+  z-index: 1;
   &__txt{
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translateY(-50%) translateX(-50%);
     color: white;
     font-size: 2em;
+    left: 50%;
+    position: absolute;
     text-decoration: none;
+    top: 45%;
+    transform: translateY(-50%) translateX(-50%);
   }
 }

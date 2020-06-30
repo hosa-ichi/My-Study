@@ -1,19 +1,19 @@
 @mixin pagination-trans {
   display: inline-block;
-  transition: .8s ;
   transform: rotateX( 0deg ) ;
+  transition: .8s ;
 }
 @mixin pagination-hover {
   transform: rotateX( 360deg ) ;
 }
 
 .pagination {
-  text-align: center;
-  margin-top: 2em;
   font-size: 20px;
+  margin-top: 2em;
+  text-align: center;
   a {
-    text-decoration: none;
     color: black;
+    text-decoration: none;
   }
   .last, .first, .prev, .next {
     a {

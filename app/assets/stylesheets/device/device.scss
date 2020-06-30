@@ -5,8 +5,8 @@
       padding-bottom: 1em;
     }
     .field {
-      padding-bottom: 1em;
       border-bottom: 1px solid #f6f6f6;
+      padding-bottom: 1em;
       &__form {
         font-family: none;
         padding-top: 1em;
@@ -20,8 +20,8 @@
 
 @media screen and (max-width: 499px) {
   .contents {
-    text-align: center;
     padding-left: 0px;
+    text-align: center;
     .new_user {
       .actions {
         padding-top: 0em;

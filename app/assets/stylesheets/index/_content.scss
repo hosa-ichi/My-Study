@@ -3,16 +3,16 @@
 }
 
 .content{
-  position: relative;
-  padding: 15px;
   border-bottom: 1px solid #5a464648;
   display: flex;
+  padding: 15px;
+  position: relative;
   &__left{
     padding-right: 20px;
     &--image{
+      border: solid 1px;
       height: 55px;
       width: 55px;
-      border: solid 1px;
     }
   }
   &__right{
@@ -20,22 +20,22 @@
       font-size: 25px;
       font-weight: bold;
       &--title{
-        text-decoration: none;
         color: #000000;
+        text-decoration: none;
       }
       &--title:hover {
         @include content-hover();
       }
     }
     &__bottom{
-      padding-top: 5px;
-      font-size: 15px;
       color: #999;
       display: flex;
+      font-size: 15px;
+      padding-top: 5px;
       &--userName{
         &--btn{
-          text-decoration: none;
           color: #999;
+          text-decoration: none;
         }
         &--btn:hover {
           @include content-hover();
